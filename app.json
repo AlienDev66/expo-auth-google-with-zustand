@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "auth-app",
+    "slug": "auth-app",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.auth.authapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.auth.authapp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "cdfc14d2-aee7-4a61-9047-1ea7fe7f8878"
+      }
+    }
+  }
+}
